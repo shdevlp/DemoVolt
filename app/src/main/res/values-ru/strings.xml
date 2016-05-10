@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DemoVolt</string>
+    <string name="error_response">Ошибка получени я данных</string>
+    <string name="load_data">Загрузка данных...пожайлуста ждите</string>
+    <string name="error">Ошибка</string>
+    <string name="information">Информация</string>
+    <string name="warning">Предупреждение</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Отмена</string>
+    <string name="exit">Выход</string>
+    <string name="title">Заголовок:</string>
+    <string name="body">Тело:</string>
+    <string name="set_fav_on">Добавить в избранное</string>
+    <string name="set_fav_off">Убрать из избранного</string>
+    <string name="favorite">Избранное:</string>
+    <string name="record_id">id Записи:</string>
+    <string name="user_id">id Пользователя:</string>
+    <string name="question">Удалить из избранного?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+</resources>

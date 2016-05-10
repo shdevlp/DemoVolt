@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DemoVolt</string>
+    <string name="error_response">Error response</string>
+    <string name="load_data">Loading data...please wait</string>
+    <string name="error">Error</string>
+    <string name="information">Information</string>
+    <string name="warning">Warning</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="exit">Exit</string>
+    <string name="title">Title:</string>
+    <string name="body">Body:</string>
+    <string name="set_fav_on">Turn On Favorite</string>
+    <string name="set_fav_off">Turn Off Favorite</string>
+    <string name="favorite">Favorites:</string>
+    <string name="record_id">Record id:</string>
+    <string name="user_id">User id:</string>
+    <string name="question">Remove from favorites?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
